@@ -198,3 +198,95 @@ This review highlights how agricultural residues can be transformed into useful 
 **Published Research Paper:** [Read Full Paper](agricultural-waste-review-2025.pdf.pdf)
 
 **DOI Link:** https://doi.org/10.34049/bcc.57.B.A0001
+
+---
+
+# ENGINEERING CAPSTONE PROJECTS
+
+## Capstone Project 1: Comparative Analysis of Mechanical Properties of Hybrid Composite Reinforced with Glass Fiber and Paddy Straw in Epoxy Matrix for Structural Applications
+
+**Author:** Alif MD Khairul Arshi
+
+**Institution:** Lovely Professional University, Punjab, India
+
+**Department:** Automobile Engineering
+
+**Program:** B.Tech Design Capstone Project-II
+
+**Project Supervisor:** Dr. Akash Gupta
+
+### Abstract and Overview
+
+This project investigates the mechanical properties of hybrid composite materials reinforced with glass fiber and paddy straw in an epoxy matrix for potential structural applications.
+
+The study focuses on developing sustainable hybrid composite laminates by combining E-glass fiber and paddy straw with epoxy resin. It also examines the influence of nano-silica reinforcement on the mechanical performance of the developed composites.
+
+The experimental work includes alkaline treatment of paddy straw, composite fabrication through hand lay-up and compression molding techniques, and mechanical characterization using standardized testing procedures.
+
+### Key Research Areas
+
+- Natural fibre-reinforced polymer composites.
+- Glass fiber and paddy straw hybrid reinforcement.
+- Sustainable and lightweight structural materials.
+- Nano-silica reinforcement in epoxy composites.
+- Tensile and flexural mechanical characterization.
+- Water absorption behaviour of composite materials.
+- Development of composite components for automotive applications.
+
+### Research Contribution
+
+This project explores the potential of combining agricultural waste with conventional glass fiber reinforcement to develop hybrid composite materials for structural applications.
+
+The reported experimental results indicate that the addition of 2 wt% nano-silica improved tensile strength across the studied laminate configurations. The GGGG configuration with nano-silica achieved a reported tensile strength of 127.19 MPa and flexural strength of 159.361 MPa.
+
+A two-wheeler wind visor prototype was also developed to demonstrate a potential automotive application of the fabricated composite material.
+
+**Project Report:** [Read Full Project Report](glass-paddy-straw-hybrid-composite-project.pdf)
+
+---
+
+## Capstone Project 2: Cell Teardown of an Automotive Prismatic LFP Battery Dismounted from E-Rickshaw
+
+**Authors:** Alif MD Khairul Arshi, Simranjit Singh, Sumit Birthlia, Mritunjay Adhikari
+
+**Institution:** Lovely Professional University, Punjab, India
+
+**Department:** Automobile Engineering
+
+**Program:** B.Tech Design Capstone Project
+
+**Project Guide:** Mr. Sumit Kanchan
+
+### Abstract and Overview
+
+This project investigates the internal structure, material characteristics, and electrochemical performance of an automotive prismatic Lithium Iron Phosphate (LFP) battery cell dismantled from an electric rickshaw.
+
+The study focuses on understanding the condition of battery components after automotive service and evaluating their potential for second-life applications.
+
+The experimental investigation includes battery cell teardown, electrode extraction and cleaning, coin-cell preparation, electrochemical characterization, and material analysis using advanced characterization techniques.
+
+The report describes a 2018 LFP battery module with a nominal specification of 3.2 V and 100 Ah, with an approximately 80% state of health reported for the battery.
+
+### Key Research Areas
+
+- Lithium Iron Phosphate (LFP) battery technology.
+- Automotive battery teardown and failure analysis.
+- Battery electrode extraction and material characterization.
+- Electrochemical performance evaluation.
+- Electrochemical impedance spectroscopy (EIS).
+- Scanning Electron Microscopy (SEM).
+- Energy Dispersive X-ray Spectroscopy (EDX).
+- X-ray Diffraction (XRD).
+- Battery recycling and second-life applications.
+
+### Research Contribution
+
+This project provides an experimental investigation of the internal components and material characteristics of a used automotive LFP battery.
+
+The reported characterization suggests that the cathode largely retained its olivine LFP crystal structure, while the anode maintained graphitic crystallinity and morphology.
+
+The study explores the potential reuse of recovered battery materials and the possibility of second-life applications, including stationary energy storage and low-load backup systems.
+
+**Project Report:** [Read Full Project Report](lfp-battery-cell-teardown-project.pdf)
+
+---
