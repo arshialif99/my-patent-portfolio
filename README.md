@@ -121,3 +121,80 @@ I welcome opportunities for:
 **Contact:** arshialif001@gmail.com
 
 *All application details are presented for informational purposes. These are published patent applications, not representations that the patents have been granted.*
+---
+
+# RESEARCH PUBLICATIONS
+
+## Research Paper 1: A Comprehensive Review on Utilization of Agricultural Waste for Reinforced Structural Products: A Sustainable Perspective
+
+**Authors:** M. Singh, N. Kumar, A. Gupta, I. Palai, A. Kumari, A. MD Kh. Arshi
+
+**Journal:** Bulgarian Chemical Communications
+
+**Publication Year:** 2025
+
+**Volume:** 57, Special Issue B
+
+**Pages:** 05–16
+
+**DOI:** 10.34049/bcc.57.B.A0001
+
+### Abstract and Overview
+
+This review paper explores the sustainable utilization of agricultural waste for developing reinforced structural products and environmentally friendly construction materials.
+
+It examines different sources of agricultural waste, including crop residues, agricultural by-products, field residues, processing residues, and industrial residues, and their potential applications in structural materials.
+
+The paper discusses various processing techniques, mechanical and structural properties, environmental benefits, economic viability, and challenges associated with converting agricultural waste into valuable structural products.
+
+### Key Research Areas
+
+- Agricultural waste utilization and recycling.
+- Natural fibre-reinforced composites.
+- Sustainable structural and construction materials.
+- Mechanical properties of agro-based materials.
+- Environmental sustainability and waste management.
+- Circular economy and resource efficiency.
+
+---
+
+# RESEARCH PUBLICATIONS
+
+## Research Paper 1: A Comprehensive Review on Utilization of Agricultural Waste for Reinforced Structural Products: A Sustainable Perspective
+
+**Authors:** M. Singh, N. Kumar, A. Gupta, I. Palai, A. Kumari, A. MD Kh. Arshi
+
+**Journal:** Bulgarian Chemical Communications
+
+**Publication Year:** 2025
+
+**Volume:** 57, Special Issue B
+
+**Pages:** 05–16
+
+**DOI:** 10.34049/bcc.57.B.A0001
+
+### Abstract and Overview
+
+This review paper explores the sustainable utilization of agricultural waste for developing reinforced structural products and environmentally friendly construction materials.
+
+It examines different sources of agricultural waste, including crop residues, agricultural by-products, field residues, processing residues, and industrial residues, and their potential applications in structural materials.
+
+The paper discusses various processing techniques, mechanical and structural properties, environmental benefits, economic viability, and challenges associated with converting agricultural waste into valuable structural products.
+
+### Key Research Areas
+
+- Agricultural waste utilization and recycling.
+- Natural fibre-reinforced composites.
+- Sustainable structural and construction materials.
+- Mechanical properties of agro-based materials.
+- Environmental sustainability and waste management.
+- Circular economy and resource efficiency.
+
+### Research Contribution
+
+This review highlights how agricultural residues can be transformed into useful structural materials, reducing waste disposal, limiting environmental pollution, and supporting sustainable manufacturing and construction practices.
+
+**Published Research Paper:** [Read Full Paper](agricultural-waste-review-2025.pdf)
+
+**DOI Link:** https://doi.org/10.34049/bcc.57.B.A0001
