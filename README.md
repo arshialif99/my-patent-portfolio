@@ -195,6 +195,6 @@ The paper discusses various processing techniques, mechanical and structural pro
 
 This review highlights how agricultural residues can be transformed into useful structural materials, reducing waste disposal, limiting environmental pollution, and supporting sustainable manufacturing and construction practices.
 
-**Published Research Paper:** [Read Full Paper](agricultural-waste-review-2025.pdf)
+**Published Research Paper:** [Read Full Paper](agricultural-waste-review-2025.pdf.pdf)
 
 **DOI Link:** https://doi.org/10.34049/bcc.57.B.A0001
